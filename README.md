@@ -3,3 +3,4 @@
 olá bem vindo ao  meu livro de receitas :hand:
 
 - farofa de bacon
+- strogonoff de carne  seca
